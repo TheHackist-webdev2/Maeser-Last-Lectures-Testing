@@ -1,0 +1,13 @@
+body {
+}
+/*This is to line up the navigation items with page elements for style, modify at your own risk*/
+#nav li {
+    width: 375px;
+}
+
+#content {
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}
+
