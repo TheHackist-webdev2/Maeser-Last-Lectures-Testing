@@ -6,68 +6,42 @@
   "commit": false,
   "contributors": [
     {
-      "login": "robomonk1717",
-      "name": "robomonk1717",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/35753484?v=4",
-      "profile": "https://github.com/robomonk1717",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "ilias16",
-      "name": "ilias16",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/46326604?v=4",
-      "profile": "https://github.com/ilias16",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
       "login": "TeacherTed",
-      "name": "TeacherTed",
+      "name": "Ted Gilbert",
       "avatar_url": "https://avatars1.githubusercontent.com/u/45575751?v=4",
       "profile": "https://github.com/TeacherTed",
       "contributions": [
-        "code"
+        "review"
       ]
     },
     {
-      "login": "zobiejrz",
-      "name": "Ben Zobrist",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/12979847?v=4",
-      "profile": "https://github.com/zobiejrz",
+      "login": "TheHackist-webdev2",
+      "name": "Jordan Clark",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45575751?v=4",
+      "profile": "https://github.com/TheHackist-webdev2",
       "contributions": [
         "code",
         "doc",
-        "maintenance",
-        "ideas",
-        "bug"
+        "maintaince",
+        "bug",
+        "review"
       ]
     },
     {
-      "login": "thurley998",
-      "name": "thurley998",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/46353958?v=4",
-      "profile": "https://github.com/thurley998",
+      "login": "ammonbahr",
+      "name": "Ammon Bahr",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45575751?v=4",
+      "profile": "https://github.com/ammonbahr",
       "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "nebrelbug",
-      "name": "Ben Gubler",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/25597854?v=4",
-      "profile": "http://www.bengubler.com",
-      "contributions": [
+        "bug",
         "code",
         "review"
       ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "LastLecture",
-  "projectOwner": "comprowinter",
+  "projectName": "Maeser-Last-Lectures-Testing",
+  "projectOwner": "TheHackist-webdev2",
   "repoType": "github",
   "repoHost": "https://github.com"
 }

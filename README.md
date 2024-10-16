@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Maeser Last Lecture 👋</h1>
+<h1 align="center">Welcome to Maeser Last Lecture Testing 👋</h1>
 <p>
 </p>
 
@@ -6,7 +6,7 @@
 
 ### 🏠 [Homepage](maeserlastlectures.com)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 ## Contributors ✨
 
