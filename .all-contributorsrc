@@ -28,6 +28,19 @@
       ]
     },
     {
+      "login": "Fresh-Squeezed-Lemonade",
+      "name": "Jordan Clark",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45575751?v=4",
+      "profile": "https://github.com/TheHackist-webdev2",
+      "contributions": [
+        "code",
+        "doc",
+        "maintaince",
+        "bug",
+        "review"
+      ]
+    },
+    {
       "login": "ammonbahr",
       "name": "Ammon Bahr",
       "avatar_url": "https://avatars1.githubusercontent.com/u/45575751?v=4",
