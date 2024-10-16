@@ -21,7 +21,7 @@
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to all these wonderful people.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
@@ -32,4 +32,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Give a ⭐️ to support the project!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator) and edited by Jordan Clark._ 
