@@ -5,11 +5,11 @@
 }
 
 #nav li {
-    height: 40px;
+    height: 50px;
     width: 200px;
     position: sticky;
     top: 0;
-    overflow: hidden;
+    overflow: visible;
 }
 
 #banner {
