@@ -39,8 +39,4 @@ function searchTable() {
 
 function redirect() {
     window.location.href = "../pdf/redirect.pdf";
-
-    setTimeout(() => {
-    window.location.href = "../html/index.html";
-    }, 3000);
 }
