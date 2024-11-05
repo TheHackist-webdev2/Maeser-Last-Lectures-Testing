@@ -1,3 +1,29 @@
+
+body::before {
+    content: "";
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/MaeserMascotHead.png");
+    background-size: 25%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.3);
+    opacity: 0.3;
+    z-index: -1;
+}
+
+
+#background{
+    background-color:#FFFFFF;
+    background-image: url("../img/MaeserMascotHead.png");
+    background-repeat: no-repeat;
+    position: sticky;
+    background-position: 50% 10%;
+    background-size: 25%;
+    opacity: .5;
+}
+
 .pageWrapper{
     display: flex;
     flex-direction: column;
@@ -34,6 +60,10 @@
         margin-bottom: 20px;
         font-size: 80px;
         color: #020059;
+    }
+
+    #banner-content a {
+        background-color: #FFFFFF;
     }
 
 .about-wrapper {
@@ -123,7 +153,8 @@
 }
 
 .item {
-    width: 20% ;
+    width: 20%;
+    background-color: #FFFFFF;
 }
 
 #filler{
@@ -133,8 +164,8 @@
     justify-content: center;
     display: flex;
     border: none;
-    background-color: white;
-    color: lightgrey;
+    background-color: #FFFFFF;
+    color: #D3D3D3;
 }
 
 .selected .item {
