@@ -1,16 +1,5 @@
 
 /*This is to line up the navigation items with page elements for style, modify at your own risk*/
-body{
-    background-color:#FFFFFF;
-    background-image: url("../img/MaeserMascotHead.png");
-    background-repeat: no-repeat;
-    position: sticky;
-    background-position: 50% 50%;
-    background: contain;
-    opacity: 1;
-    background-size: 45%;
-}
-
 #nav li {
     height: 50px;
     width: 200px;
