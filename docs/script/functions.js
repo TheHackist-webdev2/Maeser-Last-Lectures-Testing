@@ -1,3 +1,4 @@
+<<<<<<< HEAD:docs/script/functions.js
 function LoadPage(name) {
     window.open('../pdf/'+name+'.pdf', '_blank');
 }
@@ -40,4 +41,47 @@ function searchTable() {
 function redirect() {
     window.location.replace("../pdf/redirect.pdf")
     setTimeout(window.location.replace('../docs/index.html'), 3000)
+=======
+function LoadPage(name) {
+    window.open('../pdf/'+name+'.pdf', '_blank');
+}
+
+function selectYear(year) {
+    var lectures = document.querySelectorAll(".item")
+
+    for (i = 0; i < lectures.length; ++i) {
+        if (lectures[i].classList.contains(year)) {
+            lectures[i].style.display = "grid";
+        }
+        else {
+            lectures[i].style.display = "none";
+        }
+    }
+}
+
+function searchTable() {
+    // Declare variables
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("lectures-search-bar");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("lectures");
+    tr = table.getElementsByTagName("tr");
+
+    // Loop through all table rows, and hide those who don't match the search query
+    for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[1];
+        if (td) {
+            txtValue = td.textContent || td.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+            } else {
+                tr[i].style.display = "none";
+            }
+        }
+    }
+}
+
+function redirect() {
+    window.location.href = "../pdf/redirect.pdf";
+>>>>>>> 5be06cda1e3dc251f78a4baed050e82764fb52f8:docs/script/script.js
 }
