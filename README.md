@@ -14,7 +14,7 @@
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/TeacherTed"><img src="https://avatars1.githubusercontent.com/u/45575751?v=4" width="100px;" alt="TeacherTed"/><br /><sub><b>TeacherTed</b></sub></a><br /><a href="https://github.com/comprowinter/LastLecture/commits?author=TeacherTed" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/TeacherTed"><img src="https://avatars1.githubusercontent.com/u/45575751?v=4" width="100px;" alt="TeacherTed"/><br /><sub><b>TeacherTed</b></sub></a><br /><a href="https://github.com/comprowinter/LastLecture/commits?author=TeacherTed" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/TheHackist-webdev2"><img src="https://avatars.githubusercontent.com/u/182794161?v=4" width="100px;" alt="Jordan Clark"/><br /><sub><b>Jordan Clark</b></sub></a><br /><a href="https://github.com/TheHackist-webdev2/Maeser-Last-Lectures-Testing/commits?author=TheHackist-webdev2" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ammonbahr"><img src="https://avatars.githubusercontent.com/u/182668397?v=4" width="100px;" alt="Ammon Bahr"/><br /><sub><b>Ammon Bahr</b></sub></a><br /><a href="https://github.com/TheHackist-webdev2/Maeser-Last-Lectures-Testing/commits?author=ammonbahr" title="Code">💻</a> <a href="#review-nebrelbug" title="Reviewed Pull Requests">👀</a></td>
   </tr>
